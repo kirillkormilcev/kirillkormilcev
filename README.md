@@ -16,15 +16,15 @@
 
 <h3> Некоторые из моих проектов:</h3>
 
-- Сервис, демонстрирующий работу с Jwt токеном, Postgres, Jpa, Spring Boot, Open Feign,
-  тесты (JUnit, MockMvc, Mockito, integration, коллекция Postman).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=theInside24Test)](https://github.com/kirillkormilcev/theInside24Test)
-
 - Микросервис на Docker-compose со сбором статистики, 2 БД Postgres, Spring Boot, Open Feign,
   Criteria API, коллекция тестов Postman.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=java-explore-with-me)](https://github.com/kirillkormilcev/java-explore-with-me)
+
+- Сервис, демонстрирующий работу с Jwt токеном, Postgres, Jpa, Spring Boot, Open Feign,
+  тесты (JUnit, MockMvc, Mockito, integration, коллекция Postman).
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=theInside24Test)](https://github.com/kirillkormilcev/theInside24Test)
 
 - Микросервис на Docker-compose (REST, Spring Boot, Maven, JPA, Postgres, микросервисная структура,
 Docker-compose, Lombok, тесты (JUnit, MockMvc, Mockito, integration, Postman)).
