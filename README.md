@@ -10,7 +10,7 @@
 Микросервисная и монолитная архитектура, основанная на Spring (Boot, Cloud) и Java 17 с использованием систем сборки Gradle и Maven.
 Непрерывная разработка при помощи цепочки: Gitlab (Git) -> Docker -> Jenkins с последующим деплоем в Kubernetes.
 На предпоследнем проекте в основном занимался разработкой и поддержкой сервиса генерации и обработки документов.
-На последнем проекте в ведении нашей команды находились: сервис верификации, сервис взаимодействия с мосбиржей, а также многомодульный монолит инвестиций, находящийся в стадии отпочкования от банка в отдельное приложение и, при этом, дробления в микро сервисы.
+На последнем проекте в ведении нашей команды находились: сервис верификации, сервис взаимодействия с мосбиржей, а также многомодульный монолит инвестиций, находящийся в стадии отпочкования от банка в отдельное приложение и, при этом, дробления в микросервисы.
 В мои обязанности входила разработка функционала (как правило энд-пойнтов) согласно поставленных задач, от запроса до межсервисного взаимодействия, работы с данными. Много задач по переносу функционала из монолиты в микросервисы.
 Покрытие тестами. Код-ревью. Багфикс, оптимизация кода.
 Участие в доработке архитектуры отдельного инвестиционного приложения. Консультация аналитиков при необходимости.
@@ -18,34 +18,7 @@
 Хобби: стройка, спорт.
 
 ```
-    Навыки: Java core (collections, lambda, stream, generics, method reference, I/O, exception),
-    Spring Framework, Spring Boot, Maven, REST, Lombok, SQL, Postgres, JDBC, JPA, Git совместная работа,
-    Микросервисы, Docker Compose, тестирование (JUnit, MockMvc, Mockito, integration, Postman).
+    Навыки: Java core, Spring Boot, Maven, Gradle, Postgres, MongoDB, Redis, MiniO, GitLab,
+    Jenkins, ELK, Zipkin, Kafka, Docker, JUnit, Mockito, Testcontainers, Jira, Confluence, YouTrack.
 ```
-
-<h3> Некоторые из моих проектов:</h3>
-
-- Микросервис на Docker-compose со сбором статистики, 2 БД Postgres, Spring Boot, Open Feign,
-  Criteria API, коллекция тестов Postman.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=java-explore-with-me)](https://github.com/kirillkormilcev/java-explore-with-me)
-
-- Сервис, демонстрирующий работу с Jwt токеном, Postgres, Jpa, Spring Boot, Open Feign,
-  тесты (JUnit, MockMvc, Mockito, integration, коллекция Postman).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=theInside24Test)](https://github.com/kirillkormilcev/theInside24Test)
-
-- Микросервис на Docker-compose (REST, Spring Boot, Maven, JPA, Postgres, микросервисная структура,
-Docker-compose, Lombok, тесты (JUnit, MockMvc, Mockito, integration, Postman)).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=java-shareit)](https://github.com/kirillkormilcev/java-shareit)
-
-- Телеграм-бот (Telegram-bot, Spring Boot, Maven, Postgres, JPA).
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillkormilcev&repo=homework-statuses-bot)](https://github.com/kirillkormilcev/homework-statuses-bot)
-
-<h3> Статистика:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillkormilcev)](https://github.com/anuraghazra/github-readme-stats)
-
 
