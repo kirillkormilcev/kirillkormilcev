@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=500&color=028022&vCenter=true&width=835&height=80&lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Maze&size=70&duration=4000&pause=500&color=00822B&center=true&vCenter=true&random=true&width=1000&height=150&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%B4%D1%80%D1%83%D0%B3+!;Hello%2C+buddy+!;Bonjour%2C+mon+ami+!;Hola%2C+amigo+!;Ciao%2C+amico+!;Hallo%2C+kumpel+!;Ni+hao%2C+peng+you+!)](https://git.io/typing-svg)
 
 ----
 <h3 align="center">Java-разработчик</h3>
